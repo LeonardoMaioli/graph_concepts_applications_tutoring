@@ -20,6 +20,11 @@ Os notebooks foram criados no Google Colab e as bibliotecas NetworkX e Matplotli
 
 ## _Notebooks criados_
 
-*bla
-*blabla
+-Introdução à Teoria dos Grafos
+
+-Algoritmos de Busca e Caminhos Mínimos em Grafos
+
+-Agrupamentos e Pontes
+
+-Centralidade
 
