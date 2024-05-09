@@ -20,11 +20,18 @@ Os notebooks foram criados no Google Colab e as bibliotecas NetworkX e Matplotli
 
 ## _Notebooks criados_
 
--Introdução à Teoria dos Grafos
+- Introdução à Teoria dos Grafos
 
--Algoritmos de Busca e Caminhos Mínimos em Grafos
+  Explora conceitos introdutórios da teoria dos grafos e comandos iniciais da biblioteca NetworkX em exemplos de mapas e redes sociais. Os conceitos teóricos praticados são: grafos, vértices, arestas, atributos, diâmetro, vizinhança, grau, conexidade e digrafos.
 
--Agrupamentos e Pontes
+- Algoritmos de Busca e Caminhos Mínimos em Grafos
 
--Centralidade
+  Aborda o conceito de caminho em grafos e traz exemplos de algoritmos de busca e de caminhos mínimos para aplicação em um problema de um entregador de aplicativo. Os conceitos teóricos praticados são: caminhos em grafos, algoritmo de busca em largura (BFS), algoritmo de busca em profundidade (DFS), algoritmo de Dijkstra, algoritmo de Bellman-Ford, distância em grafos, caminhos em digrafos.
+
+- Agrupamentos e Pontes
+
+  Traz o conceito de agrupamentos em grafos para estudo de como os vértices de um grafo se organizam e se conectam entre si, explorando um exemplo de conexões entre websites na internet. Os conceitos teóricos trabalhados são: fechamento triádico, coeficiente de agrupamento global, local e médio, pontes, pontes locais, conectividade de aresta, componentes conexas, comunidades em grafos. 
+
+- Centralidade
+  Apresenta o conceito de centralidade em grafos, explorando diferentes aspectos de importâncias dos vértices existentes com o exemplo da rede metroferroviária de São Paulo. Os conceitos tóricos estudados são: centralidade, importância de um vértice, centralidade de grau, centralidade de proximidade, centralidade de betweenness, centralidade de autovetor e pagerank.
 
