@@ -1,0 +1,156 @@
+Tucuruvi Parada_Inglesa
+Parada_Inglesa Ayrton_Senna
+Ayrton_Senna Santana
+Santana Carandiru
+Carandiru Portuguesa_Tietê
+Portuguesa_Tietê Armênia
+Armênia Tiradentes
+Tiradentes Luz
+Luz São_Bento Brás Palmeiras República
+São_Bento Sé
+Sé Liberdade Pedro_II Anhagabaú
+Liberdade São_Joaquim
+São_Joaquim Vergueiro
+Vergueiro Paraíso
+Paraíso Ana_Rosa Brigadeiro
+Ana_Rosa Vila_Mariana Chácara_Klabin
+Vila_Mariana Santa_Cruz
+Santa_Cruz Praça_Árvore Chácara_Klabin Hospital_SP
+Praça_Árvore Saúde
+Saúde São_Judas
+São_Judas Conceição
+Conceição Jabaquara
+Vila_Madalena Sumaré
+Sumaré Clínicas
+Clínicas Consolação
+Consolação Masp Higienópolis Oscar_Freire
+Masp Brigadeiro
+Chácara_Klabin Santos_Imigrantes
+Santos_Imigrantes Alto_Ipiranga
+Alto_Ipiranga Sacomã
+Sacomã Tamanduateí
+Tamanduateí Vila_Prudente São_Caetano_Sul Ipiranga
+Vila_Prudente Oratório
+Palmeiras Água_Branca Júlio_Prestes Lapa_Diamante Mal_Deodoro
+Mal_Deodoro Santa_Cecilia
+Santa_Cecilia República
+República Anhagabaú Higienópolis
+Pedro_II Brás
+Brás Bresser_Mooca Juventus_Mooca Tatuapé
+Bresser_Mooca Belém
+Belém Tatuapé
+Tatuapé Carrão Corinthians Eng_Goulart
+Carrão Penha
+Penha Vila_Matilde
+Vila_Matilde Guilhermina
+Guilhermina Patriarca
+Patriarca Artur_Alvim
+Artur_Alvim Corinthians
+Vila_Sônia São_Paulo_Morumbi
+São_Paulo_Morumbi Butantã
+Butantã Pinheiros
+Pinheiros Faria_Lima Cidade_Univ Hebraica_Reb
+Faria_Lima Fradique
+Fradique Oscar_Freire
+Capão_Redondo Campo_Limpo
+Campo_Limpo Vila_Belezas
+Vila_Belezas Giovanni_Gronchi
+Giovanni_Gronchi Santo_Amaro
+Santo_Amaro Largo_Treze João_Dias Socorro
+Largo_Treze Adolfo_Pinheiro
+Adolfo_Pinheiro Alto_Boa_Vista
+Alto_Boa_Vista Borba_Gato
+Borba_Gato Brooklin
+Brooklin Campo_Belo
+Campo_Belo Eucaliptos
+Eucaliptos Moema
+Moema AACD
+AACD Hospital_SP
+Jundiaí Várzea_Paulista
+Várzea_Paulista Campo_Limpo_Paulista
+Campo_Limpo_Paulista Botujuru
+Botujuru Francisco_Morato
+Francisco_Morato Baltazar
+Baltazar Franco_Rocha
+Franco_Rocha Caieiras
+Caieiras Perus
+Perus Vila_Aurora
+Vila_Aurora Jaraguá
+Jaraguá Vila_Clarice
+Vila_Clarice Pirituba
+Pirituba Piqueri
+Piqueri Lapa_Rubi
+Lapa_Rubi Água_Branca
+Amador_Bueno Santa_Rita
+Santa_Rita Itapevi
+Itapevi Eng_Cardoso
+Eng_Cardoso Sagrado_Coração
+Sagrado_Coração Jandira
+Jandira Jardim_Silveira
+Jardim_Silveira Jardim_Belval
+Jardim_Belval Barueri
+Barueri Antonio_João
+Antonio_João Santa_Terezinha
+Santa_Terezinha Carapicuíba
+Carapicuíba Gen_Miguel_Costa
+Gen_Miguel_Costa Quitaúna
+Quitaúna Com_Sampaio
+Com_Sampaio Osasco
+Osasco Pres_Altino
+Pres_Altino Imperatriz_Leo Ceasa
+Imperatriz_Leo Domingos_Moraes
+Domingos_Moraes Lapa_Diamante
+Vila_Natal Grajaú
+Grajaú Interlagos
+Interlagos Autódromo
+Autódromo Jurubatuba
+Jurubatuba Socorro
+João_Dias Granja_Julieta
+Granja_Julieta Morumbi
+Morumbi Berrini
+Berrini Vila_Olímpia
+Vila_Olímpia Cidade_Jardim
+Cidade_Jardim Hebraica_Reb
+Cidade_Univ Jaguaré
+Jaguaré Ceasa
+Rio_Grande_Serra Ribeirão_Pires
+Ribeirão_Pires Guapituba
+Guapituba Mauá
+Mauá Capuava
+Capuava Santo_André
+Santo_André Pref_Saladino
+Pref_Saladino Utinga
+Utinga São_Caetano_Sul
+Ipiranga Juventus_Mooca
+Estudantes Mogi_Cruzes
+Mogi_Cruzes Braz_Cubas
+Braz_Cubas Jundiapeba
+Jundiapeba Suzano
+Suzano Calmon_Viana
+Calmon_Viana Poá Aracaré
+Poá Ferraz
+Ferraz Antonio_Gianetti
+Antonio_Gianetti Guaianases
+Guaianases José_Bonifácio
+José_Bonifácio Dom_Bosco
+Dom_Bosco Corinthians
+Aracaré Itaquaquecetuba
+Itaquaquecetuba Eng_Manoel_Feio
+Eng_Manoel_Feio Jardim_Romano
+Jardim_Romano Itaim_Paulista
+Itaim_Paulista Jardim_Helena
+Jardim_Helena São_Miguel_Paulista
+São_Miguel_Paulista Comendador
+Comendador USP_Leste
+USP_Leste Eng_Goulart
+Eng_Goulart Guarulhos_Cecap
+Aeroporto_Guarulhos Guarulhos_Cecap
+Jardim_Colonial São_Mateus
+São_Mateus Fazenda_Juta
+Fazenda_Juta Sapopemba
+Sapopemba Jd_Planalto
+Jd_Planalto Vila_União
+Vila_União Vila_Tolstói
+Vila_Tolstói Camilo_Haddad
+Camilo_Haddad São_Lucas
+São_Lucas Oratório
